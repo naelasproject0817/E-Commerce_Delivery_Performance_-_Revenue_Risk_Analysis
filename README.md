@@ -126,7 +126,8 @@ Dashboard interaktif dibuat di **Power BI**, terdiri dari 2 halaman:
 - **Halaman 1 — Overview Performance:** KPI utama, tren bulanan, gap janji vs aktual, alasan retur, dampak cuaca.
 - **Halaman 2 — Root Cause:** performa carrier vs rating, late rate per jarak, return rate per status keterlambatan, matrix carrier × jarak.
 
-*(Tambahkan screenshot atau link Power BI publish di sini)*
+<img width="1333" height="1719" alt="E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis-FINAL-PROJECT-E-Commerce-pdf-at-main-·-naelasproject0817-E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis-10-29-2026_09_49_AM" src="https://github.com/user-attachments/assets/7ab9803b-fa92-4521-9eff-769e8a299bca" />
+
 
 ---
 
@@ -171,10 +172,13 @@ Dashboard interaktif dibuat di **Power BI**, terdiri dari 2 halaman:
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 
 **Naela Arbach**
-Career transition ke Data Analytics — latar belakang operasional ticketing & akuntansi.
+
+* 💼 **LinkedIn:** [linkedin.com/in/naelaarbach](https://www.linkedin.com/in/naelaarbach/)
+* 🐙 **GitHub:** [github.com/naelasproject0817](https://github.com/naelasproject0817)
+* 📧 **Email:** [naelaproject0817@gmail.com](mailto:naelaproject0817@gmail.com)
 
 ---
 
