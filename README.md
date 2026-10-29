@@ -13,8 +13,8 @@ Keterlambatan ini terbukti secara statistik berhubungan signifikan dengan:
 - **Peningkatan permintaan retur** (23,34% pada pesanan terlambat vs 9,39% pada pesanan tepat waktu, Chi-Square p < 0,001)
 
 <p align="center">
-  <img src="images/01_late_rate_by_month.png" width="48%">
-  <img src="images/05_return_rate_by_status.png" width="48%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/01_late_rate_by_month.png?raw=true" width= "48%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/05_return_rate_by_status.png?raw=true"width= "48%">
 </p>
 
 yang berpotensi menggerus pendapatan hingga **$1,17 juta** dari nilai pesanan yang diretur akibat keterlambatan.
@@ -83,7 +83,7 @@ Business Understanding → Data Understanding → Data Cleaning & Preprocessing
 | **Chi-Square Test** | Hubungan status keterlambatan dengan permintaan retur | χ² = 1.676,28, df = 1, p < 0,001 | Keterlambatan & retur berhubungan signifikan, bukan kebetulan |
 
 <p align="center">
-  <img src="images/02_rating_late_vs_ontime.png" width="60%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/02_rating_late_vs_ontime.png" width="60%">
 </p>
 <p align="center"><i>Distribusi rating pelanggan: pesanan terlambat (kiri) vs tepat waktu (kanan)</i></p>
 
@@ -95,11 +95,11 @@ Dua faktor utama yang diidentifikasi sebagai pendorong keterlambatan:
 - **Cuaca ekstrem** (Snow, Storm) menaikkan late rate signifikan, sementara estimasi waktu pengiriman sistem tetap kaku tanpa penyesuaian kondisi cuaca.
 
 <p align="center">
-  <img src="images/03_late_rate_by_carrier.png" width="48%">
-  <img src="images/04_late_rate_by_distance.png" width="48%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/03_late_rate_by_carrier.png" width="48%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/04_late_rate_by_distance.png" width="48%">
 </p>
 <p align="center">
-  <img src="images/06_matrix_carrier_distance.png" width="75%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/06_matrix_carrier_distance.png" width="75%">
 </p>
 <p align="center"><i>SwiftShip (hijau) konsisten unggul di setiap kategori jarak, GlobalExpress (merah) konsisten terburuk — membuktikan ini bukan kebetulan rute.</i></p>
 
@@ -115,7 +115,7 @@ Simulasi penambahan buffer waktu janji pengiriman (+2 hari) khusus untuk pesanan
 > Simulasi ini **tidak mempercepat waktu pengiriman aktual** — yang dikoreksi adalah estimasi janji yang semula tidak realistis untuk jarak jauh, sehingga ekspektasi pelanggan menjadi lebih akurat sejak awal.
 
 <p align="center">
-  <img src="images/07_whatif_dynamic_sla.png" width="75%">
+  <img src="https://github.com/naelasproject0817/E-Commerce_Delivery_Performance_-_Revenue_Risk_Analysis/blob/main/07_whatif_dynamic_sla.png?raw=true" width="75%">
 </p>
 
 ---
